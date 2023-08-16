@@ -87,11 +87,6 @@ class Program
         return tempShip;   
     }
 
-    static bool IsCoordExistInList(int x, int y, List<List<int>> list)
-    {
-        return list.Any(item => item[0]==x && item[1]==y);
-    }
-
     static List<List<int>> GetPositionsList(List<List<int>> list)
     {
         List<List<int>> listResult = new List<List<int>>();
