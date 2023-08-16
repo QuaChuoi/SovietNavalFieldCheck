@@ -9,3 +9,12 @@ Details:
 Base idea:
 - create a position list of spot "1" on field.
 - first check number of spot=20.
+- identify ship from first item of position list // loop until list clear or got fail check
+- position move from left->right, up-> down
+=> check rule:
+![alt text](https://github.com/QuaChuoi/SovietNavalFieldCheck/blob/master/checkRule.svg)
+check 4 position: dont have any X & dont have 2 O at the same time.
+
+![alt text](https://github.com/QuaChuoi/SovietNavalFieldCheck/blob/master/TestsRun/Screen%20Shot%202023-08-16%20at%2018.49.43.png)
+
+Some of test result can be found in TestsRun file.
