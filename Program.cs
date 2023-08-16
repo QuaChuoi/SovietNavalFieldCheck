@@ -14,7 +14,7 @@ class Program
 
     static void Main(string[] args) 
     {
-        Console.WriteLine("Result ==> " + validate_battlefield(TestCases.failFieldI));
+        Console.WriteLine("Result ==> " + validate_battlefield(TestCases.field));
     }
 
     static bool validate_battlefield(List<List<int>> field) 
