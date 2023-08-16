@@ -1,0 +1,15 @@
+/Users/chuoi/Desktop/Development/CsharpHouse/SovietNavalWar/bin/Debug/net6.0/SovietNavalWar
+/Users/chuoi/Desktop/Development/CsharpHouse/SovietNavalWar/bin/Debug/net6.0/SovietNavalWar.deps.json
+/Users/chuoi/Desktop/Development/CsharpHouse/SovietNavalWar/bin/Debug/net6.0/SovietNavalWar.runtimeconfig.json
+/Users/chuoi/Desktop/Development/CsharpHouse/SovietNavalWar/bin/Debug/net6.0/SovietNavalWar.dll
+/Users/chuoi/Desktop/Development/CsharpHouse/SovietNavalWar/bin/Debug/net6.0/ref/SovietNavalWar.dll
+/Users/chuoi/Desktop/Development/CsharpHouse/SovietNavalWar/bin/Debug/net6.0/SovietNavalWar.pdb
+/Users/chuoi/Desktop/Development/CsharpHouse/SovietNavalWar/obj/Debug/net6.0/SovietNavalWar.csproj.AssemblyReference.cache
+/Users/chuoi/Desktop/Development/CsharpHouse/SovietNavalWar/obj/Debug/net6.0/SovietNavalWar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuoi/Desktop/Development/CsharpHouse/SovietNavalWar/obj/Debug/net6.0/SovietNavalWar.AssemblyInfoInputs.cache
+/Users/chuoi/Desktop/Development/CsharpHouse/SovietNavalWar/obj/Debug/net6.0/SovietNavalWar.AssemblyInfo.cs
+/Users/chuoi/Desktop/Development/CsharpHouse/SovietNavalWar/obj/Debug/net6.0/SovietNavalWar.csproj.CoreCompileInputs.cache
+/Users/chuoi/Desktop/Development/CsharpHouse/SovietNavalWar/obj/Debug/net6.0/SovietNavalWar.dll
+/Users/chuoi/Desktop/Development/CsharpHouse/SovietNavalWar/obj/Debug/net6.0/ref/SovietNavalWar.dll
+/Users/chuoi/Desktop/Development/CsharpHouse/SovietNavalWar/obj/Debug/net6.0/SovietNavalWar.pdb
+/Users/chuoi/Desktop/Development/CsharpHouse/SovietNavalWar/obj/Debug/net6.0/SovietNavalWar.genruntimeconfig.cache
